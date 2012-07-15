@@ -1,5 +1,5 @@
 Purger
-===
+======
 
 A very simple Mac OS X app for purging inactive memory using the `purge` command.
 
